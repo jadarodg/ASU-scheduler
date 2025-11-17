@@ -16,7 +16,7 @@ public class ASUscheduler {
          System.out.println("============================");
          System.out.println("    ASU School Scheduler    ");
          System.out.println("============================");
-         System.out.println();
+         System.out.println(); //jada
       }
       
       
